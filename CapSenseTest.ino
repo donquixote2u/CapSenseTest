@@ -27,5 +27,5 @@ void loop()
 
     Serial.println(total1);                  // print sensor output 
  
-    delay(10);                             // arbitrary delay to limit data to serial port 
+    delay(100);                             // arbitrary delay to limit data to serial port 
 }
